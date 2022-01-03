@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="/jekyll-theme-memoirs/assets/images/logo.png">
+
+    <title>Mastering Git and Github | Patrick</title>
+
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Mastering Git and Github | Patrick</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Mastering Git and Github" />
+<meta name="author" content="patrick" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="If you are a software developer, github helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building." />
+<meta property="og:description" content="If you are a software developer, github helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building." />
+<meta property="og:site_name" content="Patrick" />
+<meta property="og:image" content="/jekyll-theme-memoirs/assets/images/git-and-github.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-08-24T00:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/jekyll-theme-memoirs/assets/images/git-and-github.jpg" />
+<meta property="twitter:title" content="Mastering Git and Github" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"patrick"},"image":"/jekyll-theme-memoirs/assets/images/git-and-github.jpg","description":"If you are a software developer, github helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building.","headline":"Mastering Git and Github","dateModified":"2021-08-24T00:00:00+00:00","datePublished":"2021-08-24T00:00:00+00:00","url":"/jekyll-theme-memoirs/git-and-github/","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/jekyll-theme-memoirs/assets/images/logo.png"},"name":"patrick"},"mainEntityOfPage":{"@type":"WebPage","@id":"/jekyll-theme-memoirs/git-and-github/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link href="/jekyll-theme-memoirs/assets/css/prism.css" rel="stylesheet">
+
+    <link href="/jekyll-theme-memoirs/assets/css/theme.css" rel="stylesheet">
+
+    <script src="/jekyll-theme-memoirs/assets/js/jquery.min.js"></script>
+     <script id="mcjs">
+         ! function (c, h, i, m, p) {
+             m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode
+                 .insertBefore(
+                     m, p)
+         }(document, "script",
+             "https://chimpstatic.com/mcjs-connected/js/users/f73a4663b1be5e3f906ffbc9d/0c841f1fb049248190669b7cc.js");
+     </script>
+
+
+</head>
+
+
+<!-- change your GA id in _config.yml -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NTB6Q09WNM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-NTB6Q09WNM');
+</script>
+
+
+
+
+<body>
+    <!-- defer loading of font and font awesome -->
+    <noscript id="deferred-styles">
+        <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+            integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    </noscript>
+
+    <!-- Begin Sidebar Navigation
+================================================== -->
+
+    <div class="sidebar">
+    </div>
+    <div class="nav-icon">
+        <div class="hamburger-bar"></div>
+    </div>
+    <div id="blackover-nav" class="blackover"></div>
+    <nav id="menu">
+        <ul>
+            <h3>Navigation</h3>
+            <li><a href="/jekyll-theme-memoirs/">Home</a></li>
+            <li><a href="/jekyll-theme-memoirs/about">About</a></li>
+            <!-- <li><a href="/jekyll-theme-memoirs/authors">Contributors <span class="badge badge-primary">new</span></a></li>      -->
+            <li><a href="/jekyll-theme-memoirs/contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <script src="/jekyll-theme-memoirs/assets/js/lunr.js"></script>
+
+<style>
+    
+</style>
+
+<div class="wrap-search">
+    <div class="d-flex align-items-center ml-auto">
+        <i class="fas fa-search show-search"></i>
+        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+            <input type="text" class="form-control bigradius text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+        </form>
+    </div>
+</div>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/jekyll-theme-memoirs/assets/js/lunrsearchengine.js"></script>
+
+
+    <!-- End Sidebar Navigation
+================================================== -->
+
+    <div class="site-content ">
+
+        <div class="container">
+
+            <!-- Site Logo/Name
+    ================================================== -->
+
+            <a class="navbar-brand" href="/jekyll-theme-memoirs/">
+                <img src="/jekyll-theme-memoirs/assets/images/logo.png" alt="Patrick">
+            </a>
+
+
+            <!-- Site Tag
+    ================================================== -->
+            
+
+            <!-- Content
+    ================================================== -->
+            <div class="main-content">
+                <div class="entry-header">
+    <!-- Post Title -->
+    <h1 class="posttitle">Mastering Git and Github</h1>
+    <!-- Author & Date  Box -->
+    
+    
+    <div class="d-flex align-items-center mt-4">
+        <div>
+            
+            <img class="author-thumb" src="/jekyll-theme-memoirs/assets/images/avatar-sal.png" alt="Patrick">
+            
+        </div>            
+        <div>
+        Written by Patrick on 
+        <span class="post-date"><time class="post-date" datetime="2021-08-24">24 Aug 2021</time></span>           
+        
+        </div>            
+    </div>
+    
+</div>
+
+<!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
+
+
+<!-- Featured Image -->
+
+<div class="entry-featured-image">
+    
+    <img class="featured-image " src="/jekyll-theme-memoirs/assets/images/git-and-github.jpg" alt="Mastering Git and Github">
+    
+</div>
+
+
+<!-- Content -->
+<!-- Post, Page Content
+================================================== -->
+<div class="article-post">
+    <!-- Toc if any -->
+    
+    <!-- End Toc -->
+    <p>If you are a software developer, <a href="https://github.com">github</a> helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building.</p>
+
+<p>Not bill boards or Inmails, these days you could build a website and there are a lot of options out there.</p>
+
+<p>As a developer or someone in the tech industry, one of the technologies or tools you’d want to master is git and github.</p>
+
+<p>I’m not gonna walk you through how to use git and github, that’d be reinventing the wheel. Instead I’m gonna point you in a very good direction.
+It happens Github has a learning lab that can walk you through how to use the technology - I found this out later after struggling many times to find a a good and hands-on resource that could really help me master git and github.</p>
+
+<p>Learn more about git and github with hands-on practice <a href="https://lab.github.com/githubtraining/first-week-on-github">here</a></p>
+
+<h2 id="what-i-learnt-from-the-practical-session">What I learnt from the practical session</h2>
+
+<h3 id="github-pages">Github Pages</h3>
+
+<p>You can have your own, organization, and project sites on GitHub. With GitHub Pages, you can rapidly make a webpage from your GitHub repositories—a great way to share static contents identified with your repo like resumes, portfolios, and project blogs.</p>
+
+<p><strong>In this course, I learnt how to:</strong></p>
+
+<ul>
+  <li>Enable GitHub Pages</li>
+  <li>Choose a theme with Jekyll</li>
+  <li>Use YAML front matter</li>
+  <li>Customize your site</li>
+  <li>Create and edit blog posts</li>
+</ul>
+
+<p>I was able to answer questions like:</p>
+
+<ul>
+  <li>What is GitHub pages?</li>
+  <li>How do I make sites with GitHub Pages?</li>
+  <li>How do I create my own blog?</li>
+</ul>
+
+<p><strong>What I built?</strong>
+I built a <a href="https://dev-path.github.io/github-pages-with-jekyll/">simple personal blog</a> site with GitHub Pages.</p>
+
+<h2 id="reviewing-pull-requests">Reviewing pull requests</h2>
+
+<p><strong>In this course, I learnt:</strong></p>
+
+<ul>
+  <li>What a pull request is?</li>
+  <li>How do I request, review, or comment on a pull request?</li>
+  <li>How do I accept changes introduced by a pull request review?</li>
+  <li>What are the responsibilities of a reviewer?</li>
+  <li>What’s a CODEOWNERS file?</li>
+  <li>What’s a diff and how do I use it?</li>
+  <li>How do I implement changes from a pull request review?</li>
+  <li>How can I suggest a change when reviewing a pull request?</li>
+</ul>
+
+<p><strong>And I was able to:</strong></p>
+
+<ul>
+  <li>Create a pull request</li>
+  <li>Comment on pull requests</li>
+  <li>Leave reviews on pull requests</li>
+  <li>Know what’s expected when reviewing pull requests</li>
+  <li>Request pull request reviews</li>
+  <li>Accept changes introduced by a pull request review</li>
+</ul>
+
+<p><strong>What I built?</strong>
+<a href="https://dev-path.github.io/reviewing-a-pull-request/">I built a tetris game!</a></p>
+
+<h2 id="managing-merge-conflicts">Managing merge conflicts</h2>
+
+<p><strong>In this course I learnt:</strong></p>
+
+<ul>
+  <li>What is a merge conflict and what causes them?</li>
+  <li>How do you resolve merge conflicts?</li>
+  <li>How do you reduce merge conflicts?</li>
+</ul>
+
+<p>And I was able to:</p>
+
+<ul>
+  <li>Understand how merging happens and what causes merge conflicts</li>
+  <li>Resolve simple and complex merge conflicts with ease</li>
+  <li>Share best practices to reduce merge conflicts with your team</li>
+</ul>
+
+<p><strong>What I built?</strong>
+<a href="https://dev-path.github.io/merge-conflicts/">A resume hosting page</a></p>
+
+<h2 id="securing-your-workflow">Securing your Workflow</h2>
+
+<p><strong>In this course I learnt how to:</strong></p>
+
+<ul>
+  <li>Enable security features for repositories hosted in GitHub</li>
+  <li>Detect vulnerable dependencies in repositories when notified by GitHub’s security alerts</li>
+  <li>Utilize best practices to keep sensitive data out of repositories</li>
+</ul>
+
+<p>I was able to find answers to questions like:</p>
+
+<ul>
+  <li>How do I protect my open-source project?</li>
+  <li>What should I keep out of my GitHub repository?</li>
+  <li>How do I keep sensitive data out of my repository?</li>
+  <li>How do I keep track of package vulnerabilities?</li>
+</ul>
+
+<p><strong>What I built?</strong>
+<a href="https://dev-path.github.io/security-on-github/">A memory game</a></p>
+
+</div>
+
+<!-- Rating -->
+
+
+<!-- Author Box if enabled from _config.yml -->
+<!-- Author Box -->
+
+
+<div class="authorbox mb-5 mt-5 pt-4 pb-4">   
+    <div class="row">
+        <div class="wrapavname col-md-3 text-center">
+            
+            <img  class="author-thumb" src="/jekyll-theme-memoirs/assets/images/avatar-sal.png" alt="Patrick">
+            
+            <p class="mt-4 mb-0 small text-center">
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https:/patrickkyei.com"><i class="fa fa-link"></i></a> 
+                <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://twitter.com/_patrickbaffour"><i class="fab fa-twitter"></i></a>
+                <a class="d-inline-block mx-1 text-dark" href="mailto:pkyei804@gmail.com"><i class="fa fa-envelope"></i></a>
+            </p>
+        </div>
+        <div class="col-md-9">
+            <h4>Patrick</h4>
+            <p class="mt-3 mb-0">Patrick</p>
+        </div>
+    </div> 
+</div> 
+
+
+
+<!-- Comments if not disabled with comments: false -->
+<!-- Comments
+================================================== -->
+ 
+<div class="comments mt-5">
+    <button class="btn btn-outline-dark py-2 px-5 d-block w-100 show-comments"><i class="fa fa-comments text-muted"></i> &nbsp; Load Comments</button>         
+    <div id="comments">  
+        <h4 class="mb-4">Comments</h4>                 
+            <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'demowebsite'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+     
+    <div class="clearfix"></div>              
+    </div>    
+</div>       
+
+
+<!-- Share -->
+<div class="share">
+    <p>
+        Share
+    </p>
+    <ul>
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Mastering Git and Github&url=/jekyll-theme-memoirs/git-and-github/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/jekyll-theme-memoirs/git-and-github/" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/jekyll-theme-memoirs/git-and-github/" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+
+<!-- Related Post -->
+<!-- Related Posts
+================================================== -->
+<div class=" related-posts ">  
+
+    
+    <h2 class="text-center mb-4">Explore more like this</h2>
+    
+    
+    <div class="d-flex justify-content-center align-items-center">
+    
+    <!-- Categories -->
+    
+    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/jekyll-theme-memoirs/categories#Git">Git</a>                
+    
+    <a class="smoothscroll badge badge-primary text-capitalize" href="/jekyll-theme-memoirs/categories#Github">Github</a>                
+    
+
+    <!-- Tags -->  
+    
+    
+
+    </div>
+
+    
+    
+    
+    <div class="blog-grid-container">
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+            <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/jekyll-theme-memoirs/github-actions/">
+                
+
+                    
+                        <img class="img-thumb" src="/jekyll-theme-memoirs/assets/images/github-action.jpg" alt="Your First Github Action"> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/jekyll-theme-memoirs/github-actions/">Your First Github Action</a>
+                
+            </h2>
+            <h4 class="card-text">Actions and Workflows
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/jekyll-theme-memoirs/assets/images/avatar-sal.png" alt="Patrick">
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name font-weight-bold">Patrick</span> 
+                
+                <span class="post-date">16 Sep 2021</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+            
+            
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        
+            
+            
+        
+            
+        
+            
+        
+        
+        </div>        
+</div>
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+            </div>
+
+            <!--  -->
+            <!-- Newsletter
+    ================================================== -->
+            <!-- <div class="newsletter text-center">
+                <span class="h4"><img src="/jekyll-theme-memoirs/assets/images/logo.png" class="newsletter-logo"
+                        alt="Patrick"> &nbsp; Subscribe to receive <b>updates</b> of my latest project doc</span>
+                <form action="" method="post" name="mc-embedded-subscribe-form"
+                    class="wj-contact-form validate" target="_blank" novalidate>
+                    <div class="mc-field-group d-inline-flex">
+                        <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL"
+                            autocomplete="on" required>
+                        <input type="submit" value="Subscribe" name="subscribe" class="heart">
+                    </div>
+                </form>
+            </div> -->
+            <!--  -->
+
+        </div>
+
+        <!-- Begin Footer
+================================================== -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                        Copyright © 2022 Patrick
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer
+================================================== -->
+
+    </div> <!-- /.site-content -->
+
+    <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
+================================================== -->
+
+    <script src="/jekyll-theme-memoirs/assets/js/prism.js"></script>
+
+    <script src="/jekyll-theme-memoirs/assets/js/theme.js"></script>
+
+    
+
+    
+    <script id="dsq-count-scr" src="//demowebsite.disqus.com/count.js"></script>
+    
+</body>
+
+</html>

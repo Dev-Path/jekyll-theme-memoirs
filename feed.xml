@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick</title>
+    <description>What Am I Spending Time On?</description>
+    <link>/jekyll-theme-memoirs/</link>
+    <atom:link href="/jekyll-theme-memoirs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Jan 2022 16:58:14 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jan 2022 16:58:14 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>UI/UX Design Challenges</title>
+        <description>&lt;p&gt;As the usage of technology grows by the day, so does the demand for user experience (UX) designers. UI/UX designers are concerned with how users interact with things such as websites, applications, and physical items. Everyday encounters are made more helpful, pleasant, and accessible by UX designers. That is why businesses of all sizes and in a variety of sectors require the services of UX designers. I am thrilled to walk through this journey to become a better UX designer, as I gain the skills necessary to launch a career/product in today’s most demand to technology products.&lt;/p&gt;
+
+&lt;h2 id=&quot;exploring-figma&quot;&gt;Exploring Figma&lt;/h2&gt;
+
+&lt;p&gt;Explore figma use cases&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/explore-ideas-thumbnail.png&quot; alt=&quot;explore figma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/77OOsodMeRR5v2jWava5XS/Explore-Ideas?node-id=7%3A53&amp;amp;viewport=241%2C48%2C0.78&amp;amp;scaling=scale-down&amp;amp;page-id=7%3A52&amp;amp;starting-point-node-id=7%3A53&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;design-lab&quot;&gt;Design Lab&lt;/h2&gt;
+
+&lt;p&gt;Express creative thought&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/try-design-thumbnail.png&quot; alt=&quot;explore figma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/Yu59kYFKqrhHKheOJMXEok/trydesignlab?node-id=6%3A79&amp;amp;viewport=241%2C48%2C0.31&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1&amp;amp;starting-point-node-id=1%3A2&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--001&quot;&gt;Daily UI :: 001&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Create a sign up page, modal, form, or app screen related to signing up for
+something. It could be for a volunteer event, contest registration, a giveaway, or
+anything you can image.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/sign-up-thumbnail.png&quot; alt=&quot;day one&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/epNwbRzfjz3YaW6U3ejsYa/Daily-UI-::-001?node-id=4%3A27&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--002&quot;&gt;Daily UI :: 002&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a credit card checkout form or page. Don’t forget the important elements such as the numbers, dates, security numbers, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/credit-card-thumbnail.png&quot; alt=&quot;day two&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/hysPrmu6ODKCRYRfJwTaJt/Daily-UI-::-002?node-id=12%3A27&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--003&quot;&gt;Daily UI :: 003&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;What’s the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/landing-page-thumbnail.png&quot; alt=&quot;day three&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/seRcwT8zDtyeE2XmGehxzc/Daily-UI-::-003?node-id=5%3A17&amp;amp;viewport=241%2C48%2C0.4&amp;amp;scaling=min-zoom&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--004&quot;&gt;Daily UI :: 004&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? Is it for a phone, a tablet, a web app?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/calculator-thumbnail.png&quot; alt=&quot;day four&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/9v1RHwmqOnTJPihWDypGFb/Daily-UI-::-004?node-id=1%3A2&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--005&quot;&gt;Daily UI :: 005&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design an app icon. What best represents the brand or product? Or is it incredibly unique? Does it look great at a distance and does it stand out when put on your home screen alongside other apps?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/app-icon-thumbnail.png&quot; alt=&quot;day five&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/b3BBFaRQ3HSA9ZwI2ITGR0/Daily-UI-%3A%3A-005?node-id=8%3A42&amp;amp;viewport=241%2C48%2C0.74&amp;amp;scaling=contain&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--006&quot;&gt;Daily UI :: 006&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a user profile and be mindful of the most important data, names, imagery, placement, etc. Is it for a serious profile? A social profile?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/user-profile-thumbnail.png&quot; alt=&quot;day six&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/R2PqHmGr5EQQuVzT1Wgnok/Daily-UI-%3A%3A-006?node-id=1%3A2&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--007&quot;&gt;Daily UI :: 007&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design settings for something. Is it for security or privacy settings? Game settings? What is it and what’s important?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/settings-thumbnail.png&quot; alt=&quot;day seven&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/RfPmgbbeOzwhGgdLtxESIg/Daily-UI-%3A%3A-007?node-id=20%3A37&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=min-zoom&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--008&quot;&gt;Daily UI :: 008&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a 404 page. Does it suit the brand’s style? Is it user-friendly? It might sound mundane, but not evertyhing can be flash or glamorous. Every day millions of people will be landing on 404 pages. You have an opportunity to help them in a way that’s useful and asthetically pleasing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/error-404-thumbnail.png&quot; alt=&quot;day eight&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/Vdi5PzPEBmkjpX0eaFTsF9/Daily-UI-%3A%3A-008?node-id=8%3A56&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--009&quot;&gt;Daily UI :: 009&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a music player. Consider the controls, placements, imagery such as the artist or album cover, etc. Also, consider the device type that’s playing the music. A dashboard in a tourbus, a smartwatch, or via a web browser. Each device type will have different requirements, features, and restrictions to consider.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/music-player-thumbnail.png&quot; alt=&quot;day nine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/MWmmqYDMUMFboVXyzHgdJn/Daily-UI-%3A%3A-009?node-id=2%3A2&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=scale-down&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--010&quot;&gt;Daily UI :: 010&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/social-share-thumbnail.png&quot; alt=&quot;day ten&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=min-zoom&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daily-ui--011&quot;&gt;Daily UI :: 011&lt;/h2&gt;
+
+&lt;p&gt;Design Hint…&lt;/p&gt;
+
+&lt;p&gt;Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/ux/flash-message-thumbnail.png&quot; alt=&quot;day ten&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.figma.com/proto/NKwvmYSIwV8sggoSJ1406W/Daily-UI-%3A%3A-010?node-id=2%3A255&amp;amp;viewport=241%2C48%2C1&amp;amp;scaling=min-zoom&amp;amp;page-id=0%3A1%3Ffuid%3D901914268454600757&quot;&gt;Demo Page&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/ux-ui-design-challenges/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/ux-ui-design-challenges/</guid>
+        
+        
+        <category>UX</category>
+        
+        <category>Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Your First Github Action</title>
+        <description>&lt;h2 id=&quot;actions-and-workflows&quot;&gt;Actions and Workflows&lt;/h2&gt;
+
+&lt;p&gt;There are two components to using GitHub Actions that we’ll cover:&lt;/p&gt;
+
+&lt;p&gt;the action itself&lt;/p&gt;
+
+&lt;p&gt;a workflow that uses action(s)&lt;/p&gt;
+
+&lt;p&gt;A workflow can contain many actions. Each action has its own purpose. We’ll put the files relating to the action in their own directories.&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-actions&quot;&gt;Types of Actions&lt;/h2&gt;
+
+&lt;p&gt;Actions come in two types: container actions and JavaScript actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Docker container actions&lt;/strong&gt; allow the environment to be packaged with the GitHub Actions code and can only execute in the GitHub-Hosted Linux environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JavaScript actions&lt;/strong&gt; decouple the GitHub Actions code from the environment allowing faster execution but accepting greater dependency management responsibility.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-add-a-dockerfile&quot;&gt;Step 1: Add a Dockerfile&lt;/h2&gt;
+
+&lt;p&gt;Create a file titled action-a/Dockerfile&lt;/p&gt;
+
+&lt;p&gt;Create a directory action-a&lt;/p&gt;
+
+&lt;p&gt;Create a docker file Dockerfile&lt;/p&gt;
+
+&lt;p&gt;Add the following script in the Dockerfile:&lt;/p&gt;
+
+&lt;p&gt;FROM debian:9.5-slim&lt;/p&gt;
+
+&lt;p&gt;ADD entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+ENTRYPOINT [“/entrypoint.sh”]&lt;/p&gt;
+
+&lt;p&gt;The entrypoint.sh script will be run in Docker, and it will define what the action is really going to be doing.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-add-and-entrypoint-script&quot;&gt;Step 2: Add and entrypoint script&lt;/h2&gt;
+
+&lt;p&gt;Add the following content to the entrypoint.sh file:&lt;/p&gt;
+
+&lt;h1 id=&quot;binsh--l&quot;&gt;!/bin/sh -l&lt;/h1&gt;
+
+&lt;p&gt;sh -c “echo Hello world my name is $INPUT_MY_NAME”&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-add-an-action-metadata-file&quot;&gt;Step 3: Add an action metadata file&lt;/h2&gt;
+
+&lt;p&gt;Create a file titled action-a/action.yml&lt;/p&gt;
+
+&lt;p&gt;name: “Hello Actions”
+description: “Greet someone”
+author: “octocat@github.com”&lt;/p&gt;
+
+&lt;p&gt;inputs:
+  MY_NAME:
+    description: “Who to greet”
+    required: true
+    default: “World”&lt;/p&gt;
+
+&lt;p&gt;runs:
+  using: “docker”
+  image: “Dockerfile”&lt;/p&gt;
+
+&lt;p&gt;branding:
+  icon: “mic”
+  color: “purple”&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4-start-your-workflow-file&quot;&gt;Step 4: Start your workflow file&lt;/h2&gt;
+
+&lt;p&gt;Create a file titled .github/workflows/main.yml&lt;/p&gt;
+
+&lt;p&gt;create a workflows directory nested inside the .github directory.&lt;/p&gt;
+
+&lt;p&gt;In the new .github/workflows/ directory, create a file titled main.yml
+Add the following content to the main.yml file:
+name: A workflow for my Hello World file
+on: push&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5-run-an-action-from-your-workflow-file&quot;&gt;Step 5: Run an action from your workflow file&lt;/h2&gt;
+
+&lt;p&gt;Edit .github/workflows/main.yml to append the following content:&lt;/p&gt;
+
+&lt;p&gt;jobs:
+  build:
+    name: Hello world action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: ./action-a
+        with:
+          MY_NAME: “YourName”&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;      jobs: is the base component of a workflow run build: is the identifier we're attaching to this job name: is the name of the job, this is displayed on GitHub when the workflow is running runs-on: defines the type of machine to run the job on. The machine can be either a GitHub-hosted runner or a self-hosted runner. steps: the linear sequence of operations that make up a job uses: actions/checkout@v1 uses a community action called checkout to allow the workflow to access the contents of the repository uses: ./action-a provides the relative path to the action we created in the action-a directory of the repository with: is used to specify the input variables that will be available to your action in the runtime environment. In this case, the input variable is MY_NAME, and it is currently initialized to &quot;YourName&quot;.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Your repository now contains an action (defined in the /action-a/ folder) and a workflow (defined in the ./github/workflows/main.yml file).&lt;/p&gt;
+
+&lt;p&gt;This action will run any time a new commit is created or pushed to the remote repository. Since you just created a commit, the workflow should have been triggered. This might take a few minutes since it’s the first time running in this repository.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/github-actions/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/github-actions/</guid>
+        
+        
+        <category>Github</category>
+        
+        <category>Flows</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsive Design</title>
+        <description>&lt;h2 id=&quot;resonspive-design-with-media-queries&quot;&gt;Resonspive Design with Media Queries&lt;/h2&gt;
+
+&lt;p&gt;Media Queries are a new technique introduced in CSS3 that change the presentation of content based on different viewport sizes. The viewport is a user’s visible area of a web page, and is different depending on the device used to access the site.&lt;/p&gt;
+
+&lt;p&gt;Media Queries consist of a media type, and if that media type matches the type of device the document is displayed on, the styles are applied. You can have as many selectors and styles inside your media query as you want.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of a media query that returns the content when the device’s width is less than or equal to 100px:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;@media (max-width: 100px) { /* CSS Rules */ }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the following media query returns the content when the device’s height is more than or equal to 350px:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;@media (min-height: 350px) { /* CSS Rules */ }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Remember, the CSS inside the media query is applied only if the media type matches that of the device being used.&lt;/p&gt;
+
+&lt;h2 id=&quot;responsive-image&quot;&gt;Responsive Image&lt;/h2&gt;
+
+&lt;p&gt;Making images responsive with CSS is actually very simple. You just need to add these properties to an image:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;img {
+  max-width: 100%;
+  height: auto;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The max-width of 100% will make sure the image is never wider than the container it is in, and the height of auto will make the image keep its original aspect ratio.&lt;/p&gt;
+
+&lt;h2 id=&quot;responsive-typography&quot;&gt;Responsive Typography&lt;/h2&gt;
+
+&lt;p&gt;Make Typography ResponsivePassed
+Instead of using em or px to size text, you can use viewport units for responsive typography. Viewport units, like percentages, are relative units, but they are based off different items. Viewport units are relative to the viewport dimensions (width or height) of a device, and percentages are relative to the size of the parent container element.&lt;/p&gt;
+
+&lt;p&gt;The four different viewport units are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vw (viewport width): 10vw would be 10% of the viewport’s width.&lt;/li&gt;
+  &lt;li&gt;vh (viewport height): 3vh would be 3% of the viewport’s height.&lt;/li&gt;
+  &lt;li&gt;vmin (viewport minimum): 70vmin would be 70% of the viewport’s smaller dimension (height or width).&lt;/li&gt;
+  &lt;li&gt;vmax (viewport maximum): 100vmax would be 100% of the viewport’s bigger dimension (height or width).
+Here is an example that sets a body tag to 30% of the viewport’s width.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ems-and-rems&quot;&gt;ems and rems&lt;/h3&gt;
+
+&lt;p&gt;ems update the size of an element relative to the size of the parent element.&lt;/p&gt;
+
+&lt;p&gt;rems update the size of an element with respect to root element, which is either the html or :: root element.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;body { width: 30vw; }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;css-flexbox&quot;&gt;CSS Flexbox&lt;/h3&gt;
+
+&lt;p&gt;Placing the CSS property display: flex; on an element allows you to use other flex properties to build a responsive page.&lt;/p&gt;
+
+&lt;p&gt;Adding display: flex to an element turns it into a flex container. This makes it possible to align any children of that element into rows or columns. You do this by adding the flex-direction property to the parent item and setting it to row or column. Creating a row will align the children horizontally, and creating a column will align the children vertically.&lt;/p&gt;
+
+&lt;p&gt;Other options for flex-direction are row-reverse, column and column-reverse. Setting a flex container as a row places the flex items side-by-side from left-to-right.&lt;/p&gt;
+
+&lt;p&gt;A flex container set as a column places the flex items in a vertical stack from top-to-bottom. For each, the direction the flex items are arranged is called the main axis. For a row, this is a horizontal line that cuts through each item. And for a column, the main axis is a vertical line through the items.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/flex-display.png&quot; alt=&quot;flex display&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are several options for how to space the flex items along the line that is the main axis. One of the most commonly used is justify-content: center;, which aligns all the flex items to the center inside the flex container.&lt;/p&gt;
+
+&lt;p&gt;justify-content aligns flex items inside the flex container horizontally across the main axis.
+align-items aligns flex items inside the flex container vertically, from top to bottom.&lt;/p&gt;
+
+&lt;h4 id=&quot;flex-properties&quot;&gt;Flex properties&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;flex-start: aligns items to the start of the flex container. For a row, this pushes the items to the left of the container. For a column, this pushes the items to the top of the container. This is the default alignment if no justify-content is specified.&lt;/li&gt;
+  &lt;li&gt;flex-end: aligns items to the end of the flex container. For a row, this pushes the items to the right of the container. For a column, this pushes the items to the bottom of the container.&lt;/li&gt;
+  &lt;li&gt;space-between: aligns items to the center of the main axis, with extra space placed between the items. The first and last items are pushed to the very edge of the flex container. For example, in a row the first item is against the left side of the container, the last item is against the right side of the container, then the remaining space is distributed evenly among the other items.&lt;/li&gt;
+  &lt;li&gt;space-around: similar to space-between but the first and last items are not locked to the edges of the container, the space is distributed around all the items with a half space on either end of the flex container.
+space-evenly: Distributes space evenly between the flex items with a full space at either end of the flex container&lt;/li&gt;
+  &lt;li&gt;center: align items to the center. For rows, this vertically aligns items (equal space above and below the items). For columns, this horizontally aligns them (equal space to the left and right of the items).&lt;/li&gt;
+  &lt;li&gt;stretch: stretch the items to fill the flex container. For example, rows items are stretched to fill the flex container top-to-bottom. This is the default value if no align-items value is specified.&lt;/li&gt;
+  &lt;li&gt;baseline: align items to their baselines. Baseline is a text concept, think of it as the line that the letters sit on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;flex-wrap property tells CSS to wrap items. This means extra items move into a new row or column. The break point of where the wrapping happens depends on the size of the items and the size of the container. flex-wrap properties include nowrap, wrap, wrap-reverse.&lt;/p&gt;
+
+&lt;p&gt;The flex-shrink property takes numbers as values. The higher the number, the more it will shrink compared to the other items in the container. For example, if one item has a flex-shrink value of 1 and the other has a flex-shrink value of 3, the one with the value of 3 will shrink three times as much as the other.&lt;/p&gt;
+
+&lt;p&gt;The opposite of the flex-shrink is flex-grow.&lt;/p&gt;
+
+&lt;h4 id=&quot;grid-properties&quot;&gt;Grid-Properties&lt;/h4&gt;
+
+&lt;p&gt;Turn any HTML element into a grid container by setting its display property to grid. This gives you the ability to use all the other properties associated with CSS Grid.&lt;/p&gt;
+
+&lt;p&gt;Simply creating a grid element doesn’t get you very far. You need to define the structure of the grid as well. To add some columns to the grid, use the grid-template-columns property on a grid container as demonstrated below:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.container {
+  display: grid;
+  grid-template-columns: 50px 50px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;grid-template-columns create the structues from top-to-bottom.&lt;/p&gt;
+
+&lt;p&gt;To adjust the rows manually, use the grid-template-rows property in the same way you used grid-template-columns in the previous challenge.&lt;/p&gt;
+
+&lt;p&gt;grid-column-gap creates a gap between the elements vice versa grip-row-gap&lt;/p&gt;
+
+&lt;p&gt;grid-gap is a shorthand property for grid-row-gap and grid-column-gap&lt;/p&gt;
+
+&lt;p&gt;To control the number of columns an item will consume, you can use the grid-column property in conjunction with the line numbers you want the item to start and stop at.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-column: 1 / 3;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will make the item start at the first vertical(this will move it across from left to right) line of the grid on the left and span to the 3rd line of the grid, consuming two columns vice versa grid-row.&lt;/p&gt;
+
+&lt;p&gt;In CSS Grid, the content of each item is located in a box which is referred to as a cell. You can align the content’s position within its cell horizontally using the justify-self property on a grid item. By default, this property has a value of stretch, which will make the content fill the whole width of the cell. This CSS Grid property accepts other values as well:&lt;/p&gt;
+
+&lt;p&gt;start: aligns the content at the left of the cell,&lt;/p&gt;
+
+&lt;p&gt;center: aligns the content in the center of the cell,&lt;/p&gt;
+
+&lt;p&gt;end: aligns the content at the right of the cell.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;align-self&lt;/strong&gt;: aligns the content from top to bottom in the cell.&lt;/p&gt;
+
+&lt;p&gt;Using &lt;strong&gt;justify-items&lt;/strong&gt; on the parent container aligns all children items in one direction&lt;/p&gt;
+
+&lt;p&gt;You can group cells of your grid together into an area and give the area a custom name. Do this by using grid-template-areas on the container like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    grid-template-areas:
+      &quot;header header header&quot;
+      &quot;advert content content&quot;
+      &quot;footer footer footer&quot;;
+  }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The code above groups the cells of the grid into four areas; header, advert, content, and footer. Every word represents a cell and every pair of quotation marks represent a row.&lt;/p&gt;
+
+&lt;p&gt;After creating an area template for your grid container, as shown in the previous challenge, you can place an item in your custom area by referencing the name you gave it. To do this, you use the grid-area property on an item like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.item1 {
+  grid-area: header;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This lets the grid know that you want the item1 class to go in the area named header. In this case, the item will use the entire top row because that whole row is named as the header area.&lt;/p&gt;
+
+&lt;p&gt;The grid-area property you learned in the last challenge can be used in another way. If your grid doesn’t have an areas template to reference, you can create an area on the fly for an item to be placed like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;item1 { grid-area: 1/1/2/4; }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is using the line numbers you learned about earlier to define where the area for this item will be. The numbers in the example above represent these values:&lt;/p&gt;
+
+&lt;p&gt;grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;
+So the item in the example will consume the rows between lines 1 and 2, and the columns between lines 1 and 4&lt;/p&gt;
+
+&lt;p&gt;repeat function repeats the number of rows or columns to the specified number.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example that would create the 100 row grid, each row at 50px tall.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-template-rows: repeat(100, 50px);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-template-columns: repeat(2, 1fr 50px) 20px;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-template-columns: 1fr 50px 1fr 50px 20px;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-template-columns: repeat(3, minmax(90px, 1fr));
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;There’s another built-in function to use with grid-template-columns and grid-template-rows called minmax. It’s used to limit the size of items when the grid container changes size. To do this you need to specify the acceptable size range for your item.&lt;/p&gt;
+
+&lt;p&gt;Here is an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;grid-template-columns: 100px minmax(50px, 200px);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The repeat function comes with an option called auto-fill. This allows you to automatically insert as many rows or columns of your desired size as possible depending on the size of the container. You can create flexible layouts when combining auto-fill with minmax, like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;repeat(auto-fill, minmax(60px, 1fr));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When the container changes size, this setup keeps inserting 60px columns and stretching them until it can insert another one. Note: If your container can’t fit all your items on one row, it will move them down to a new one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;auto-fit&lt;/strong&gt; works almost identically to auto-fill. The only difference is that when the container’s size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.&lt;/p&gt;
+
+&lt;p&gt;Note: If your container can’t fit all your items on one row, it will move them down to a new one.&lt;/p&gt;
+
+&lt;p&gt;In the second grid, use auto-fit with repeat to fill the grid with columns that have a minimum width of 60px and maximum of 1fr. Then resize the preview to see the difference.&lt;/p&gt;
+
+&lt;h4 id=&quot;media-screens&quot;&gt;Media Screens&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/responsive-design/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/responsive-design/</guid>
+        
+        
+        <category>Responsiveness</category>
+        
+        <category>Web</category>
+        
+      </item>
+    
+      <item>
+        <title>Coding Challenges</title>
+        <description>&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When elements have a specified position, such as fixed or relative, the CSS offset properties &lt;strong&gt;right&lt;/strong&gt;, &lt;strong&gt;left&lt;/strong&gt;, &lt;strong&gt;top&lt;/strong&gt;, and &lt;strong&gt;bottom&lt;/strong&gt; can be used in animation rules to create movement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+  div {
+    height: 40px;
+    width: 70%;
+    background: black;
+    margin: 50px auto;
+    border-radius: 5px;
+    position: relative;
+  }
+
+  #rect {
+    animation-name: rainbow;
+    animation-duration: 4s;
+  }
+
+  @keyframes rainbow {
+    0% {
+      background-color: blue;
+      top: 0px;
+      left: 0px;
+    }
+    50% {
+      background-color: green;
+      top: 50px;
+      left: 25px;
+    }
+    100% {
+      background-color: yellow;
+      top: 0px;
+      left:-25px;
+    }
+  }
+&amp;lt;/style&amp;gt;
+
+&amp;lt;div id=&quot;rect&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The opacity of the animated element gradually fades as it reaches the right side of the screen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the displayed animation, the round element with the gradient background moves to the right by the 50% mark of the animation per the @keyframes rule.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+
+  #ball {
+    width: 70px;
+    height: 70px;
+    margin: 50px auto;
+    position: fixed;
+    left: 20%;
+    border-radius: 50%;
+    background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+    animation-name: fade;
+    animation-duration: 3s;
+  }
+
+  @keyframes fade {
+    50% {
+      left: 60%;
+      opacity: 0.1;
+    }
+  }
+
+&amp;lt;/style&amp;gt;
+
+&amp;lt;div id=&quot;ball&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The previous challenges covered how to use some of the animation properties and the @keyframes rule. Another animation property is the animation-iteration-count, which allows you to control how many times you would like to loop through the animation. Here’s an example&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+
+  #ball {
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    position: relative;
+    border-radius: 50%;
+    background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+    animation-name: bounce;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes bounce{
+    0% {
+      top: 0px;
+    }
+    50% {
+      top: 249px;
+      width: 130px;
+      height: 70px;
+    }
+    100% {
+      top: 0px;
+    }
+  }
+&amp;lt;/style&amp;gt;
+&amp;lt;div id=&quot;ball&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can change the animation rates for two similarly animated elements by altering their @keyframes rules. You can achieve the same goal by manipulating the animation-duration of multiple elements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the animation running in the code editor, there are three stars in the sky that twinkle at the same rate on a continuous loop. To make them twinkle at different rates, you can set the animation-duration property to different values for each element.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+  .stars {
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    animation-iteration-count: infinite;
+  }
+
+  .star-1 {
+    margin-top: 15%;
+    margin-left: 60%;
+    animation-duration: 1s;
+    animation-name: twinkle;
+  }
+
+  .star-2 {
+    margin-top: 25%;
+    margin-left: 25%;
+    animation-duration: 0.9s;
+    animation-name: twinkle;
+  }
+
+  .star-3 {
+    margin-top: 10%;
+    margin-left: 50%;
+    animation-duration: 1.1s;
+    animation-name: twinkle;
+  }
+
+  @keyframes twinkle {
+    20% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  #back {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+  }
+&amp;lt;/style&amp;gt;
+
+&amp;lt;div id=&quot;back&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;star-1 stars&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;star-2 stars&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;star-3 stars&quot;&amp;gt;&amp;lt;/div&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In CSS animations, the animation-timing-function property controls how quickly an animated element changes over the duration of the animation. If the animation is a car moving from point A to point B in a given time (your animation-duration), the animation-timing-function says how the car accelerates and decelerates over the course of the drive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a number of predefined keywords available for popular options. For example, the default value is ease, which starts slow, speeds up in the middle, and then slows down again in the end. Other options include ease-out, which is quick in the beginning then slows down, ease-in, which is slow in the beginning, then speeds up at the end, or linear, which applies a constant animation speed throughout.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+
+  .balls {
+    border-radius: 50%;
+    background: linear-gradient(
+      35deg,
+      #ccffff,
+      #ffcccc
+    );
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  #ball1 {
+    left:27%;
+animation-timing-function: linear;
+  }
+  #ball2 {
+    left:56%;
+animation-timing-function: ease-out;
+
+  }
+
+  @keyframes bounce {
+    0% {
+      top: 0px;
+    }
+    100% {
+      top: 249px;
+    }
+  }
+
+&amp;lt;/style&amp;gt;
+
+&amp;lt;div class=&quot;balls&quot; id=&quot;ball1&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id=&quot;ball2&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use a Bezier Curve to Move a GraphicPassed
+A previous challenge discussed the ease-out keyword that describes an animation change that speeds up first and then slows down at the end of the animation. On the right, the difference between the ease-out keyword (for the blue element) and linear keyword (for the red element) is demonstrated. Similar animation progressions to the ease-out keyword can be achieved by using a custom cubic Bezier curve function.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In general, changing the p1 and p2 anchor points drives the creation of different Bezier curves, which controls how the animation progresses through time. Here’s an example of a Bezier curve using values to mimic the ease-out style:&lt;/p&gt;
+
+&lt;p&gt;Remember that all cubic-bezier functions start with p0 at (0, 0) and end with p3 at (1, 1). In this example, the curve moves faster through the Y-axis (starts at 0, goes to p1 y value of 0, then goes to p2 y value of 1) than it moves through the X-axis (0 to start, then 0 for p1, up to 0.58 for p2). As a result, the change in the animated element progresses faster than the time of the animation for that segment. Towards the end of the curve, the relationship between the change in x and y values reverses - the y value moves from 1 to 1 (no change), and the x values move from 0.58 to 1, making the animation changes progress slower compared to the animation duration.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+  .balls{
+    border-radius: 50%;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  #red {
+    background: red;
+    left: 27%;
+    animation-timing-function: cubic-bezier(0, 0, 0.58, 1);
+  }
+  #blue {
+    background: blue;
+    left: 56%;
+    animation-timing-function: ease-out;
+  }
+  @keyframes bounce {
+    0% {
+      top: 0px;
+    }
+    100% {
+      top: 249px;
+    }
+  }
+&amp;lt;/style&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id= &quot;red&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id= &quot;blue&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make Motion More Natural Using a Bezier CurvePassed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This challenge animates an element to replicate the movement of a ball being juggled. Prior challenges covered the linear and ease-out cubic Bezier curves, however neither depicts the juggling movement accurately. You need to customize a Bezier curve for this.&lt;/p&gt;
+
+&lt;p&gt;The animation-timing-function automatically loops at every keyframe when the animation-iteration-count is set to infinite. Since there is a keyframe rule set in the middle of the animation duration (at 50%), it results in two identical animation progressions at the upward and downward movement of the ball.&lt;/p&gt;
+
+&lt;p&gt;The following cubic Bezier curve simulates a juggling movement:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;cubic-bezier(0.3, 0.4, 0.5, 1.6);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the value of y2 is larger than 1. Although the cubic Bezier curve is mapped on a 1 by 1 coordinate system, and it can only accept x values from 0 to 1, the y value can be set to numbers larger than one. This results in a bouncing movement that is ideal for simulating the juggling ball.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;style&amp;gt;
+  .balls {
+    border-radius: 50%;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 60%;
+    animation-name: jump;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  #red {
+    background: red;
+    left: 25%;
+    animation-timing-function: linear;
+  }
+  #blue {
+    background: blue;
+    left: 50%;
+    animation-timing-function: ease-out;
+  }
+  #green {
+    background: green;
+    left: 75%;
+    animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);
+  }
+
+  @keyframes jump {
+    50% {
+      top: 10%;
+    }
+  }
+&amp;lt;/style&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id=&quot;red&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id=&quot;blue&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div class=&quot;balls&quot; id=&quot;green&quot;&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/challenges-and-snippets/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/challenges-and-snippets/</guid>
+        
+        
+        <category>Programming</category>
+        
+        <category>Challenges</category>
+        
+      </item>
+    
+      <item>
+        <title>Just Some Useful links</title>
+        <description>&lt;p&gt;Links to some of the resources you might just find helpful.&lt;/p&gt;
+
+&lt;p&gt;It just happens that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you can find answers to every &lt;strong&gt;where`&lt;/strong&gt;, you can find a solution to any &lt;strong&gt;how&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;for-product-designers&quot;&gt;For Product Designers&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.evernote.design/categories/design-tools/&quot;&gt;All In One Design Resources&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pixabay.com/&quot;&gt;Free photos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://humbleux.com&quot;&gt;Create Prototypes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://material.io/design&quot;&gt;Material Design - Google&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developer.apple.com/design/&quot;&gt;Human Interface Guidelines - Apple&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://atlassian.design/&quot;&gt;Atlassian Design System - Atlassion&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/&quot;&gt;Carbon Design System - IBM&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check List For Any Design: &lt;a href=&quot;https://www.checklist.design/&quot;&gt;Checklist&lt;/a&gt;, &lt;a href=&quot;https://uxarchive.com/&quot;&gt;UX Archive&lt;/a&gt;, &lt;a href=&quot;https://mobbin.design/browse/ios/apps&quot;&gt;Mobbin&lt;/a&gt;, &lt;a href=&quot;https://www.reallygoodux.io/&quot;&gt;Really Good UX&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://color.adobe.com&quot;&gt;Colors from Adobe&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;happyhues.co&quot;&gt;happyhues.co - color hues&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://grabient.com/&quot;&gt;Find Color Gradients&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hexcolorpedia.com/&quot;&gt;Hex Color Info&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colorbox.io/&quot;&gt;Check color Saturarions&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pigment.shapefactory.co/&quot;&gt;Color Pigment by shapefactory&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://duotones.co/&quot;&gt;Duotones&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.culrs.com/#/&quot;&gt;Cool colors&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://coolors.co/&quot;&gt;Coolors&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colorable.jxnblk.com/&quot;&gt;Color Contrast checker&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://picular.co&quot;&gt;Color of anything&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uigradients.com/&quot;&gt;UI gradients&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colormind.io&quot; title=&quot;Colormind - the AI powered color palette generator&quot;&gt;Color Mind&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://leonardocolor.io&quot;&gt;Color sampling&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gradientmagic.com&quot;&gt;Gradient&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://palette.site/&quot;&gt;Site Palette&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.huesnap.com/&quot;&gt;Huesnap&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colorwise.io/&quot;&gt;Colorwise&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://iconfinder.com&quot;&gt;iconfinder&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.edwordle.net&quot;&gt;EdWordle&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.convertico.com&quot;&gt;PNG to ICO converter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://logoipsum.com/&quot;&gt;Free Logos for any Project&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pixeden.com/&quot;&gt;Free Photos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pxfuel.com/&quot;&gt;Pxfuel photos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pexels.com/&quot;&gt;Free photos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://streamlinehq.com/&quot;&gt;Icon, Illustrations for Designers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://niice.co/&quot;&gt;Brand Resource&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pageflows.com/&quot;&gt;Page flows - Videos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://365psd.com/&quot;&gt;Photoshop freebies&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://freedesignresources.net/&quot;&gt;Free Design Resource&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.fontbrief.com/&quot;&gt;Font Brief&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.screensizes.app/&quot;&gt;Find Screen Size&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pattern.monster/&quot;&gt;Pattern Monster&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://eva.design/&quot;&gt;Eva Design System&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.fontspace.com/&quot;&gt;color fonts&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://app.peppertype.ai/&quot;&gt;Peppertype.ai content creator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.greenkeeperapp.com/marketing/&quot;&gt;Greenkeeper Decision-support tool&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.etsy.com/&quot;&gt;Sell design stuff&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.dailyui.co/&quot;&gt;Daily UI challenges: Become a better designer in 100 days&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://undraw.co/illustrations&quot;&gt;Illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.drawkit.io/&quot;&gt;Beautiful free illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://absurd.design&quot;&gt;Absurd Illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://freepik.com&quot;&gt;Graphic Resources for Everyone&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://2.flexiple.com/scale/all-illustrations&quot;&gt;Illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sites.google.com/&quot;&gt;Build Sites with Google&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/&quot;&gt;Museum of Art&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://oa.letterformarchive.org/&quot;&gt;Archives of Letter forms&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/exhibit/best-thing-since-sliced-bread-packaging-innovation/8QJCXqYuGAEOIA&quot;&gt;Museum of Brand and Packaging&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/partner/cooper-hewitt-national-design-museum&quot;&gt;Arts and Culture&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.webdesignmuseum.org/&quot;&gt;Web Design Museum&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/partner/the-international-museum-of-children&quot;&gt;The International Museum of Children’s Art&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/project/street-art&quot;&gt;Street Art&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://artsandculture.google.com/partner/fidm-museum&quot;&gt;Fashion and Design&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.pixeltrue.com/&quot;&gt;Free Vector Illustration&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://previewed.app/&quot;&gt;Free Mockup&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://remixicon.com/&quot;&gt;Open source Icon&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.remove.bg/&quot;&gt;Remove Background&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uigarage.net/&quot;&gt;UI Templates&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://muz.li/&quot;&gt;Designers’ Secret Source&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.siteinspire.com/&quot;&gt;Latest Design Trends&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.uplabs.com/&quot;&gt;Design Files&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.lapa.ninja/&quot;&gt;Landing pages store&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uibundle.com&quot;&gt;Wireframes and mockups&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://freebiesui.com&quot;&gt;Freebie UI&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://error404.fun&quot;&gt;Royalty Free 404 pages&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://clipartmax.com&quot;&gt;Free clip art&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://gist.github.com&quot;&gt;Emoji list&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tablericons.com&quot;&gt;Tabler Icons&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://thenounproject.com/&quot;&gt;The noun project Icons &amp;amp; illustration pack&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://lottiefiles.com&quot;&gt;LottieFiles:&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pfolios.net/Home&quot;&gt;Portfolio&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.ideo.com&quot;&gt;IDEO tools/case studies&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://giphy.com&quot;&gt;Make Giphy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.manypixels.co/gallery&quot;&gt;Many Pixels Illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://vectr.com&quot;&gt;Online vector art editor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://coverr.co/&quot;&gt;Free videos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.deviantart.com/&quot;&gt;DeviantArt&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ello.co/&quot;&gt;Ello Art Gallery&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.artstation.com/&quot;&gt;ArtStation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.awwwards.com/&quot;&gt;Free Design ideas&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.typeform.com/&quot;&gt;Create questionare form&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://webflow.com/&quot;&gt;Build without code&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.shapefest.com/#browse&quot;&gt;Free 3D shapes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shape.so/&quot;&gt;Shapes, Illustrations and Icons&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.adinkraicons.dev/&quot;&gt;Download Adinkra Icons&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pattern.monster/&quot;&gt;Pattern Generator- Pattern Monster&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;stubborn.fun&quot;&gt;Free Illustration+scene&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://feathericons.com/&quot;&gt;Feather Icons&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.vecteezy.com/&quot;&gt;Royalty Free Vectors&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://app.haikei.app/&quot;&gt;SVG Graphics&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://mockuper.net/&quot;&gt;Mockups&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://scrnshts.club/&quot;&gt;App Screenshots&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.useronboard.com/user-onboarding-teardowns/&quot;&gt;User Onboarding&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.photopea.com&quot;&gt;Online photo editor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://storyset.com/&quot;&gt;Customize Animate &amp;amp; Download free Illustrations&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://fontello.com/&quot;&gt;Font Generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.fontpair.co/&quot;&gt;font pairing&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Present Design with Mockups: &lt;a href=&quot;https://previewed.app/&quot;&gt;3D Studio&lt;/a&gt;, &lt;a href=&quot;https://artboard.studio/&quot;&gt;Artboard&lt;/a&gt;, &lt;a href=&quot;https://www.mokupframes.com/&quot;&gt;Mockup Frames&lt;/a&gt;, &lt;a href=&quot;https://smartmockups.com/&quot;&gt;Smartmockups&lt;/a&gt;, &lt;a href=&quot;https://mockuphone.com/&quot;&gt;Mockuphone&lt;/a&gt;, &lt;a href=&quot;https://mockuuups.studio/&quot;&gt;Mockuuuup Studio&lt;/a&gt;, &lt;a href=&quot;https://magicmockups.com/&quot;&gt;Magic Mockups&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://app.crowwwn.com/&quot;&gt;UI Design Challenges&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://boolean.method.ac/&quot;&gt;Learn Pen Tricks&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://type.method.ac/&quot;&gt;Learn Typeface&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://color.method.ac/&quot;&gt;Learn Color&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://editor.method.ac/&quot;&gt;Online Vector Editor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.bensound.com/&quot;&gt;Ben Sounds&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-software-developers&quot;&gt;For Software Developers&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://roadmap.sh/&quot;&gt;Developer Roadmap&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tiny-helpers.dev&quot;&gt;All Tiny Helpers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.turing.com/&quot; title=&quot;turing&quot;&gt;Find Developer Jobs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.talent.io/p/en-fr/home&quot;&gt;Find Your Next Dev Job&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://app.otta.com/&quot;&gt;Relevant Tech Roles&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://griddy.io&quot;&gt;Learn CSS Grid&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://csslayout.io&quot; title=&quot;A collection of popular layouts and patterns made with CSS - CSS Layout&quot;&gt;CSS Layout&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://andreasbm.github.io/web-skills/&quot;&gt;Web Skills&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://keyframes.app/&quot;&gt;Keyframes, Color pallete,shadows&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssgrid-generator.netlify.app/&quot;&gt;CSS Grid Generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://css-tricks.com/&quot;&gt;Learn modern css&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check List For Any Design: &lt;a href=&quot;https://www.checklist.design/&quot;&gt;Checklist&lt;/a&gt;, &lt;a href=&quot;https://uxarchive.com/&quot;&gt;UX Archive&lt;/a&gt;, &lt;a href=&quot;https://mobbin.design/browse/ios/apps&quot;&gt;Mobbin&lt;/a&gt;, &lt;a href=&quot;https://www.reallygoodux.io/&quot;&gt;Really Good UX&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cssmatic.com/&quot;&gt;Gradient, Radius, Texture, Shadow Generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;css reference&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://codingfantasy.com/&quot;&gt;Coding fantasy Games&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shuffle.dev/components&quot;&gt;Many UI Components to build faster&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://reshelper.netlify.app/reslist&quot;&gt;List of other lists&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/hail2u/html-best-practices&quot;&gt;HTML Standard Practices&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://webkul.github.io/coolhue/&quot;&gt;Gradient Color&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://reciteme.com/&quot;&gt;Recite me Accessibility Tool&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/search/docs/guides/enable-web-stories/&quot;&gt;Web Stories&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://reactjsexample.com/tag/templates/&quot;&gt;React Examples&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.virustotal.com/&quot;&gt;Analyze suspicious links&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dev.to/tracycss/learning-code-through-github-repositories-2bp7&quot;&gt;A list of lists&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/dipakkr/A-to-Z&quot;&gt;Resources-for-Students&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://free-for.dev/#/&quot;&gt;Free dev resources&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssgradient.io/gradient-backgrounds/&quot;&gt;Css Gradient&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://devhints.io/&quot;&gt;Dev Hints&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://unicode-table.com/&quot;&gt;Unicode Character Table&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jigsaw.w3.org/css-validator/&quot;&gt;CSS Validator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://devchallenges.io/&quot;&gt;Learn Development by practice&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;css framework&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://nextjs.org/&quot;&gt;React Framework&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ihateregex.io/&quot;&gt;iCreate Regex&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://responsively.app/&quot;&gt;Responsive test app: responsively app&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://masteringnextjs.com/#course-overview&quot;&gt;Learn Nextjs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://rahuldkjain.github.io/gh-profile-readme-generator/&quot;&gt;GitHub Profile ReadMe Generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://scrimba.com/g/glearnreact&quot;&gt;Learn React&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docsify.js.org/#/?id=docsify&quot;&gt;Create documentation pages&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://firstcontributions.github.io/&quot;&gt;Contribute to open source&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://carbon.now.sh&quot;&gt;Source Code Beautifier&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://exercism.org/&quot;&gt;Excercism Coding exercise&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/clangen/musikcube&quot;&gt;Terminal music&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://html5please.com&quot;&gt;HTML Guide&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://caniuse.com&quot;&gt;Web Guide&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.mockapi.io&quot;&gt;Mock APIS&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://javascriptobfuscator.com&quot;&gt;Secure JS Code&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP&quot;&gt;Learn about content security policy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://karma-runner.github.io/latest/index.html&quot;&gt;Download karma for automated testing&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ngrx.io/&quot;&gt;Learn Ngrx&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://haveibeenpwned.com/Passwords&quot;&gt;Has your email been leaked?&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://temp-mail.org/en/&quot;&gt;Temporal Email&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://flukeout.github.io/&quot;&gt;CSS Diner Game&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://js.checkio.org/&quot;&gt;check io Games&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://tailwindcss.com/&quot;&gt;CSS library&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://edabit.com/&quot;&gt;Learn To Code With Fun&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.devsamples.com/&quot;&gt;DevSamples: Code samples&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify deploy static sites&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://daily.dev/&quot;&gt;Tech updates&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shortcode.dev/&quot;&gt;Useful dev code snippets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.codemonkey.com/&quot;&gt;Learn to Code with Games for kids&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/&quot;&gt;Coding Games&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://web.dev&quot;&gt;Learn from Googlers&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.30secondsofcode.org&quot;&gt;Code Snippets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/tutorials/video-walkthroughs&quot;&gt;Jekyll tutorial&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;appbrewery.co&quot;&gt;Learn Flutter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://lab.github.com&quot;&gt;Github Learning&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://play.instruqt.com/public/topics/getting-started-with-git&quot;&gt;Interactive git playground&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.30secondsofcode.org&quot;&gt;Code snippets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.littlesnippets.net&quot;&gt;HTML CSS code snippet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dev.to/thisishariharen/20-react-tools-to-help-you-become-a-more-productive-programmer-5do5&quot;&gt;20 React tools&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.frontendmentor.io/&quot;&gt;Frontend Mentor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c&quot;&gt;Web Dev Resources&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://kimia-ui.vercel.app/components&quot;&gt;React Components&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://botkit.ai/getstarted.html&quot;&gt;Bots&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.programiz.com/&quot;&gt;Learn Programming&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rapidapi.com&quot;&gt;APIs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.appannie.com&quot;&gt;Apps Data&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dev.to/impressivewebs/are-these-the-most-interesting-front-end-developer-tools-for-2021-2op3&quot;&gt;Free Dev stuff&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://fun-javascript-projects.com/&quot;&gt;Fun JS Projects&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://awesome-python.com/&quot;&gt;Awesome Python&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://public-apis.io/&quot;&gt;Public APIs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.jrdevjobs.com/&quot;&gt;Junior Dev Jobs&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sidebar.io/&quot;&gt;Sidebar IO for CSS&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/washam/coding-interview-university&quot;&gt;Coding interview&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hackernoon.com/&quot;&gt;Dev Read&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.budibase.com/&quot;&gt;Budibase&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com&quot;&gt;Web Analytics&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mrale.ph/&quot;&gt;V8 engine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;www.google.com/webmasters&quot;&gt;Webmasters&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://readme.so/&quot; title=&quot;readme.so&quot;&gt;Generate Readme File for Project&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hyperdev.io&quot;&gt;Software Development&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://learnvanillajs.com/&quot;&gt;learn vanilla js&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com/admob/android/banner?hl=fr&quot;&gt;Super tools&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://michalsnik.github.io/aos/&quot;&gt;Animate on scroll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://freecodecamp.com/&quot; title=&quot;freecodecamp&quot;&gt;Become A Software Developer&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://lifeat.io/&quot;&gt;Join Virtual Workspace&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://css-challenges.com/quizzes/&quot;&gt;CSS Quizzes&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cssgrid.io/&quot;&gt;CSS Grid with WeBos&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.theodinproject.com/&quot;&gt;Learn Web Dev - Full Statck&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/computing/computer-programming&quot;&gt;Learn Programming with Khan Academey&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.codewell.cc/challenges&quot;&gt;Codewell Challenges&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;for-product-managers&quot;&gt;For Product Managers&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Email Marketing Tools: &lt;a href=&quot;https://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt;, &lt;a href=&quot;https://www.constantcontact.com/global/home-page&quot;&gt;Constant Contact&lt;/a&gt;, &lt;a href=&quot;https://myemma.com/&quot;&gt;Emma&lt;/a&gt;, &lt;a href=&quot;https://emailoctopus.com&quot;&gt;Email Octopus&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.focusmate.com&quot;&gt;Focus Mate&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hunter.io/&quot;&gt;Find Professional Emails&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.deseat.me/&quot;&gt;Clean Your Online Presence&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;passwordwolf.com&quot;&gt;passwordwolf.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://airtable.com&quot;&gt;Spreadsheet Database&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Forms: &lt;a href=&quot;https://www.formstack.com/&quot;&gt;Formstack&lt;/a&gt;, &lt;a href=&quot;https://www.typeform.com/&quot;&gt;Typeform&lt;/a&gt;, &lt;a href=&quot;https://www.jotform.com/&quot;&gt;Jotform&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://anchor.fm/&quot;&gt;Create podcast for free&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.change.org&quot;&gt;Sign petition&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://calendly.com/&quot;&gt;Calender for Meetings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://buffer.com&quot;&gt;Content Management&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://hootsuite.com&quot;&gt;Content Management&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://keywordtool.io&quot;&gt;Keyword generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://adwords.google.com&quot;&gt;Google Keyword Tool&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://moz.com/explorer&quot;&gt;Paid Keyword ranking&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.semrush.com&quot;&gt;Keyword Search&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.screamingfrog.co.uk/search-engine-marketing&quot;&gt;SEO&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://google.com/business&quot;&gt;Get Business Online&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ahrefs.com/blog/webmaster-tools/&quot;&gt;SEO: Ahrefs Master Tools&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.discudemy.com/&quot;&gt;Find Udemy Discounts&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.real.discount/udemy-coupon-code/&quot;&gt;realdiscount.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://testautomationu.applitools.com/&quot;&gt;Test Automation University&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://trello.com&quot;&gt;Teams Management Tool&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://google.com/webmasters&quot;&gt;Webmaster SEO&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.socrative.com/&quot;&gt;classroom App for Fun&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.kissmetrics.com&quot;&gt;A/B Testing&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://myemma.com/&quot;&gt;Voice dictation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://notion.so&quot;&gt;Notion all-in-one workspace&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.10000blackinterns.com/&quot;&gt;Internship opportunities&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.uxbooth.com/&quot;&gt;Read UX Articles&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://webapp.wisestamp.com/editor&quot;&gt;Create Email Signature&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://savvycal.com/&quot;&gt;Create Calendar Meetings&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.hubspot.com/email-signature-generator&quot;&gt;Free Email Signature&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.title-generator.com/&quot;&gt;Title Generator&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://app.excalideck.com/&quot;&gt;Hand-drawn Slide Deck&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ourworldindata.org/&quot;&gt;Our World In Data&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://scholar.google.com/&quot;&gt;Google Scholar Search&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cal.com&quot;&gt;Calendar Booking Software&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/devlinks/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/devlinks/</guid>
+        
+        
+        <category>Resources</category>
+        
+        <category>Links</category>
+        
+      </item>
+    
+      <item>
+        <title>The Internet And Computers</title>
+        <description>&lt;p&gt;Maybe you’ve not even thought about what the internet is, how it came about or how you are able to send an email to a family member or make a Whatsapp call to a friend. The interesting thing is, many years ago you couldn’t do any of these. Wih the power of the Internet now you are able to do so many amazing things.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-what-is-the-internet&quot;&gt;So what is the internet?&lt;/h3&gt;
+
+&lt;p&gt;Most people have little clue how the internet came about. Different people have different opinions about what the internet is about and a lot of the time people get it wrong, well probably they don’t need to be right or wrong. Because the average user just cares the internet works for them. There are many things in our lives that we don’t really think a lot about how they came to be but use them anyway. Like the pen you use for writng, the zip on your cloth, the fan in your room - we don’t even know who their inventors are. The same thing is often said about the internet.&lt;/p&gt;
+
+&lt;p&gt;Many years ago, the internet was started as a project by two people &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Vint_Cerf&quot;&gt;Vint Cerf&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bob_Kahn&quot;&gt;Bob Kahn&lt;/a&gt;&lt;/strong&gt; that resulted in what we have as the internet today.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-should-we-even-care-about-this&quot;&gt;Why should we even care about this?&lt;/h3&gt;
+
+&lt;p&gt;Well it happens that the internet brought with it many other advantages that if we know and put it to use could help us solve many problems around us and also make us a fortune.&lt;/p&gt;
+
+&lt;p&gt;One of the biggest problems the internet came to solve is the communication problem. Somewhere a 1000 years ago, you couldn’t take a phone to have a video call with anyone or think of sending an email or a photo on Whatsapp to anyone.&lt;/p&gt;
+
+&lt;p&gt;Now with the power of the internet we can keep in touch with our loved ones who are far away from us, we can pioneer the technology of autonomous vehicles, we can pull information about the weather in seconds and many more.&lt;/p&gt;
+
+&lt;p&gt;The internet has made people like Bill Gates, Mark Zuggerberg, Jeff Bezoz and many other like them billonaires. How?&lt;/p&gt;
+
+&lt;p&gt;If you want to find out the power of the internet and what you can do with it, &lt;a href=&quot;https://www.youtube.com/watch?v=Dxcc6ycZ73M&amp;amp;list=PLkZYeFmDuaN21nQjzE4RLLNccK_YP0P0&quot;&gt;look into this&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/the-internet-and-computers/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/the-internet-and-computers/</guid>
+        
+        
+        <category>Internet</category>
+        
+        <category>Technology</category>
+        
+      </item>
+    
+      <item>
+        <title>Semantic HTML</title>
+        <description>&lt;p&gt;HTML is the standard markup language for Web pages. With HTML you can create your own Website.&lt;/p&gt;
+
+&lt;p&gt;HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page’s appearance/presentation (CSS) or functionality/behavior (JavaScript).&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-learnt-from-the-practical-course&quot;&gt;What I Learnt from the Practical Course&lt;/h2&gt;
+
+&lt;h3 id=&quot;i-was-able-to-answer-questions-like&quot;&gt;I was able to answer questions like&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is HTML?&lt;/li&gt;
+  &lt;li&gt;What are tags &amp;amp; headers?&lt;/li&gt;
+  &lt;li&gt;How do you add lists, images, and links to your HTML page?&lt;/li&gt;
+  &lt;li&gt;What is a Pull Request?&lt;/li&gt;
+  &lt;li&gt;How do you use GitHub Pages?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make a simple HTML website&lt;/li&gt;
+  &lt;li&gt;Use foundational HTML concepts, like tags, headers, lists, images, and links&lt;/li&gt;
+  &lt;li&gt;Introduce changes with Pull Requests&lt;/li&gt;
+  &lt;li&gt;Deploy a web page to GitHub pages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I built?&lt;/strong&gt;
+I built a simple &lt;a href=&quot;https://dev-path.github.io/intro-html/&quot;&gt;webpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diging-deeper&quot;&gt;Diging Deeper&lt;/h2&gt;
+
+&lt;h3 id=&quot;understanding-articles-and-section&quot;&gt;Understanding Articles and Section&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;article&lt;/em&gt; is another one of the new HTML5 elements that add semantic meaning to your markup. &lt;em&gt;article&lt;/em&gt; is a sectioning element and is used to wrap independent, self-contained content. The tag works well with blog entries, forum posts, or news articles.&lt;/p&gt;
+
+&lt;p&gt;Determining whether content can stand alone is usually a judgment call, but you can use a couple of simple tests. Ask yourself if you removed all surrounding context, would that content still make sense? Similarly, for text, would the content hold up if it were in an RSS feed?&lt;/p&gt;
+
+&lt;p&gt;Remember that folks using assistive technologies rely on organized, semantically meaningful markup to better understand your work.&lt;/p&gt;
+
+&lt;p&gt;Note: The section element is also new with HTML5, and has a slightly different semantic meaning than article. An article is for standalone content, and a section is for grouping thematically related content. They can be used within each other, as needed. For example, if a book is the article, then each chapter is a section. When there’s no relationship between groups of content, then use a div.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;div&amp;gt; - groups content &amp;lt;section&amp;gt; - groups related content &amp;lt;article&amp;gt; - groups independent, self-contained content
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;using-the-audio-element&quot;&gt;Using the Audio Element&lt;/h3&gt;
+
+&lt;p&gt;HTML5’s audio element gives semantic meaning when it wraps sound or audio stream content in your markup. Audio content also needs a text alternative to be accessible to people who are deaf or hard of hearing. This can be done with nearby text on the page or a link to a transcript.&lt;/p&gt;
+
+&lt;p&gt;The audio tag supports the controls attribute. This shows the browser default play, pause, and other controls, and supports keyboard functionality. This is a boolean attribute, meaning it doesn’t need a value, its presence on the tag turns the setting on.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;audio id=&quot;meowClip&quot; controls&amp;gt;
+  &amp;lt;source src=&quot;audio/meow.mp3&quot; type=&quot;audio/mpeg&quot;&amp;gt;
+  &amp;lt;source src=&quot;audio/meow.ogg&quot; type=&quot;audio/ogg&quot;&amp;gt;
+&amp;lt;/audio&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;figure-and-figcaption&quot;&gt;Figure and Figcaption&lt;/h3&gt;
+
+&lt;p&gt;HTML5 introduced the figure element and the related figcaption. Used together, these items wrap a visual representation (like an image, diagram, or chart) along with its caption. Wrapping these elements together gives a two-fold accessibility boost by semantically grouping related content and providing a text alternative explaining the figure.&lt;/p&gt;
+
+&lt;p&gt;For data visualizations like charts, the caption can be used to briefly note the trends or conclusions for users with visual impairments. Another challenge covers how to move a table version of the chart’s data off-screen (using CSS) for screen reader users.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example - note that the figcaption goes inside the figure tags and can be combined with other elements:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;figure&amp;gt;
+  &amp;lt;img src=&quot;roundhouseDestruction.jpeg&quot; alt=&quot;Photo of Camper Cat executing a roundhouse kick&quot;&amp;gt;
+  &amp;lt;br&amp;gt;
+  &amp;lt;figcaption&amp;gt;
+    Master Camper Cat demonstrates proper form of a roundhouse kick.
+  &amp;lt;/figcaption&amp;gt;
+&amp;lt;/figure&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;working-with-radio-buttons&quot;&gt;Working with Radio Buttons&lt;/h3&gt;
+
+&lt;p&gt;Since radio buttons often come in a group where the user must choose one, there’s a way to semantically show the choices are part of a set.&lt;/p&gt;
+
+&lt;p&gt;The fieldset tag surrounds the entire grouping of radio buttons to achieve this. It often uses a legend tag to provide a description for the grouping, which screen readers read for each choice in the fieldset element.&lt;/p&gt;
+
+&lt;p&gt;The fieldset wrapper and legend tag are not necessary when the choices are self-explanatory, like a gender selection. Using a label with the for attribute for each radio button is sufficient.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;form&amp;gt;
+  &amp;lt;fieldset&amp;gt;
+    &amp;lt;legend&amp;gt;Choose one of these three items:&amp;lt;/legend&amp;gt;
+    &amp;lt;input id=&quot;one&quot; type=&quot;radio&quot; name=&quot;items&quot; value=&quot;one&quot;&amp;gt;
+    &amp;lt;label for=&quot;one&quot;&amp;gt;Choice One&amp;lt;/label&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;input id=&quot;two&quot; type=&quot;radio&quot; name=&quot;items&quot; value=&quot;two&quot;&amp;gt;
+    &amp;lt;label for=&quot;two&quot;&amp;gt;Choice Two&amp;lt;/label&amp;gt;&amp;lt;br&amp;gt;
+    &amp;lt;input id=&quot;three&quot; type=&quot;radio&quot; name=&quot;items&quot; value=&quot;three&quot;&amp;gt;
+    &amp;lt;label for=&quot;three&quot;&amp;gt;Choice Three&amp;lt;/label&amp;gt;
+  &amp;lt;/fieldset&amp;gt;
+&amp;lt;/form&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;date-and-time&quot;&gt;Date and Time&lt;/h3&gt;
+
+&lt;p&gt;HTML5 also introduced the time element along with a datetime attribute to standardize times. The time element is an inline element that can wrap a date or time on a page. A datetime attribute holds a valid format of that date. This is the value accessed by assistive devices. It helps avoid confusion by stating a standardized version of a time, even if it’s informally or colloquially written in the text.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;p&amp;gt;Master Camper Cat officiated the cage match between Goro and Scorpion &amp;lt;time datetime=&quot;2013-02-13&quot;&amp;gt;last Wednesday&amp;lt;/time&amp;gt;, which ended in a draw.&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;accessibility-with-css&quot;&gt;Accessibility with CSS&lt;/h3&gt;
+
+&lt;p&gt;CSS’s magic can also improve accessibility on your page when you want to visually hide content meant only for screen readers. This happens when information is in a visual format (like a chart), but screen reader users need an alternative presentation (like a table) to access the data. CSS is used to position the screen reader-only elements off the visual area of the browser window.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of the CSS rules that accomplish this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.sr-only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note: The following CSS approaches will NOT do the same thing:&lt;/p&gt;
+
+&lt;p&gt;display: none; or visibility: hidden; hides content for everyone, including screen reader users
+Zero values for pixel sizes, such as width: 0px; height: 0px; removes that element from the flow of your document, meaning screen readers will ignore it.&lt;/p&gt;
+
+&lt;h3 id=&quot;accessibility-with-acesskeys&quot;&gt;Accessibility with acesskeys&lt;/h3&gt;
+
+&lt;p&gt;HTML offers the accesskey attribute to specify a shortcut key to activate or bring focus to an element. Adding an accesskey attribute can make navigation more efficient for keyboard-only users.&lt;/p&gt;
+
+&lt;p&gt;HTML5 allows this attribute to be used on any element, but it’s particularly useful when it’s used with interactive ones. This includes links, buttons, and form controls.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;button accesskey=&quot;b&quot;&amp;gt;Important Button&amp;lt;/button&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/semantic-html/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/semantic-html/</guid>
+        
+        
+        <category>Web</category>
+        
+        <category>HTML</category>
+        
+      </item>
+    
+      <item>
+        <title>How Does Design Solve Problems?</title>
+        <description>
+</description>
+        <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/product-design-journey/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/product-design-journey/</guid>
+        
+        
+        <category>Design</category>
+        
+        <category>UX</category>
+        
+      </item>
+    
+      <item>
+        <title>Mastering Git and Github</title>
+        <description>&lt;p&gt;If you are a software developer, &lt;a href=&quot;https://github.com&quot;&gt;github&lt;/a&gt; helps you build all sort of great things. Things that help people, things that could land you a job, things that could change the world and some things that might not. Github is one place that can help you tell the world about all the great things that you are building.&lt;/p&gt;
+
+&lt;p&gt;Not bill boards or Inmails, these days you could build a website and there are a lot of options out there.&lt;/p&gt;
+
+&lt;p&gt;As a developer or someone in the tech industry, one of the technologies or tools you’d want to master is git and github.&lt;/p&gt;
+
+&lt;p&gt;I’m not gonna walk you through how to use git and github, that’d be reinventing the wheel. Instead I’m gonna point you in a very good direction.
+It happens Github has a learning lab that can walk you through how to use the technology - I found this out later after struggling many times to find a a good and hands-on resource that could really help me master git and github.&lt;/p&gt;
+
+&lt;p&gt;Learn more about git and github with hands-on practice &lt;a href=&quot;https://lab.github.com/githubtraining/first-week-on-github&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-learnt-from-the-practical-session&quot;&gt;What I learnt from the practical session&lt;/h2&gt;
+
+&lt;h3 id=&quot;github-pages&quot;&gt;Github Pages&lt;/h3&gt;
+
+&lt;p&gt;You can have your own, organization, and project sites on GitHub. With GitHub Pages, you can rapidly make a webpage from your GitHub repositories—a great way to share static contents identified with your repo like resumes, portfolios, and project blogs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In this course, I learnt how to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enable GitHub Pages&lt;/li&gt;
+  &lt;li&gt;Choose a theme with Jekyll&lt;/li&gt;
+  &lt;li&gt;Use YAML front matter&lt;/li&gt;
+  &lt;li&gt;Customize your site&lt;/li&gt;
+  &lt;li&gt;Create and edit blog posts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was able to answer questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is GitHub pages?&lt;/li&gt;
+  &lt;li&gt;How do I make sites with GitHub Pages?&lt;/li&gt;
+  &lt;li&gt;How do I create my own blog?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I built?&lt;/strong&gt;
+I built a &lt;a href=&quot;https://dev-path.github.io/github-pages-with-jekyll/&quot;&gt;simple personal blog&lt;/a&gt; site with GitHub Pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;reviewing-pull-requests&quot;&gt;Reviewing pull requests&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;In this course, I learnt:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What a pull request is?&lt;/li&gt;
+  &lt;li&gt;How do I request, review, or comment on a pull request?&lt;/li&gt;
+  &lt;li&gt;How do I accept changes introduced by a pull request review?&lt;/li&gt;
+  &lt;li&gt;What are the responsibilities of a reviewer?&lt;/li&gt;
+  &lt;li&gt;What’s a CODEOWNERS file?&lt;/li&gt;
+  &lt;li&gt;What’s a diff and how do I use it?&lt;/li&gt;
+  &lt;li&gt;How do I implement changes from a pull request review?&lt;/li&gt;
+  &lt;li&gt;How can I suggest a change when reviewing a pull request?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;And I was able to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a pull request&lt;/li&gt;
+  &lt;li&gt;Comment on pull requests&lt;/li&gt;
+  &lt;li&gt;Leave reviews on pull requests&lt;/li&gt;
+  &lt;li&gt;Know what’s expected when reviewing pull requests&lt;/li&gt;
+  &lt;li&gt;Request pull request reviews&lt;/li&gt;
+  &lt;li&gt;Accept changes introduced by a pull request review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I built?&lt;/strong&gt;
+&lt;a href=&quot;https://dev-path.github.io/reviewing-a-pull-request/&quot;&gt;I built a tetris game!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;managing-merge-conflicts&quot;&gt;Managing merge conflicts&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;In this course I learnt:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is a merge conflict and what causes them?&lt;/li&gt;
+  &lt;li&gt;How do you resolve merge conflicts?&lt;/li&gt;
+  &lt;li&gt;How do you reduce merge conflicts?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And I was able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand how merging happens and what causes merge conflicts&lt;/li&gt;
+  &lt;li&gt;Resolve simple and complex merge conflicts with ease&lt;/li&gt;
+  &lt;li&gt;Share best practices to reduce merge conflicts with your team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I built?&lt;/strong&gt;
+&lt;a href=&quot;https://dev-path.github.io/merge-conflicts/&quot;&gt;A resume hosting page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;securing-your-workflow&quot;&gt;Securing your Workflow&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;In this course I learnt how to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enable security features for repositories hosted in GitHub&lt;/li&gt;
+  &lt;li&gt;Detect vulnerable dependencies in repositories when notified by GitHub’s security alerts&lt;/li&gt;
+  &lt;li&gt;Utilize best practices to keep sensitive data out of repositories&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was able to find answers to questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do I protect my open-source project?&lt;/li&gt;
+  &lt;li&gt;What should I keep out of my GitHub repository?&lt;/li&gt;
+  &lt;li&gt;How do I keep sensitive data out of my repository?&lt;/li&gt;
+  &lt;li&gt;How do I keep track of package vulnerabilities?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What I built?&lt;/strong&gt;
+&lt;a href=&quot;https://dev-path.github.io/security-on-github/&quot;&gt;A memory game&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/git-and-github/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/git-and-github/</guid>
+        
+        
+        <category>Git</category>
+        
+        <category>Github</category>
+        
+      </item>
+    
+      <item>
+        <title>Hey! where Are You Going?</title>
+        <description>&lt;p&gt;Howdy where ya goin’, not exactly knowin’, who says you have to call just one place home. He’s goin’ everywhere and his best friend Me. He just keeps on movin’, ladies keep improvin’, every day is better than the last. New dreams and better scenes, and best of all I don’t pay property tax. Places new and ladies, too, I’m here and just there, this is my best year.&lt;/p&gt;
+
+&lt;p&gt;Night Owl, a shadowy flight into the dangerous world of a man who does not exist. A young loner on a crusade to champion the cause of the passionate, the ones who have a desire to be their best self.&lt;/p&gt;
+
+&lt;p&gt;One for all and all for one, creatives consistently prepared. One for all and all for one, helping everybody. One for all and all for one, it’s a pretty story. Sharing everything with fun, that’s the way to be. One for all and all for one, engineers are always ready. One for all and all for one, helping everybody. One for all and all for one, can sound pretty corny. If you’ve got a problem chum, think how it could be.&lt;/p&gt;
+
+&lt;p&gt;365 days around the world, we’ll find a pot of gold just sitting where the rainbow’s ending. Time — we’ll fight against the time, and we’ll fly on the white wings of the wind. 365 days around the world, no we won’t say a word before the ship is really back. Round, round, all around the world. Round, all around the world. Round, all around the world. Round, all around the world.&lt;/p&gt;
+
+&lt;p&gt;Children of the sun, see your time has just begun, searching for your ways, through adventures every day. Every day and night, with the condor in flight, with all your friends in tow, you search for the Cities of Gold. Ah-ah-ah-ah-ah… wishing for The Cities of Gold. Ah-ah-ah-ah-ah… some day we will find The Cities of Gold. Do-do-do-do ah-ah-ah, do-do-do-do, Cities of Gold. Do-do-do-do, Cities of Gold. Ah-ah-ah-ah-ah… some day we will find The Cities of Gold.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+        <link>/jekyll-theme-memoirs/hey/</link>
+        <guid isPermaLink="true">/jekyll-theme-memoirs/hey/</guid>
+        
+        
+        <category>Test</category>
+        
+      </item>
+    
+  </channel>
+</rss>
